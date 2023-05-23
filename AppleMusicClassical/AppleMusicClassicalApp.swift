@@ -11,7 +11,7 @@ import SwiftUI
 struct AppleMusicClassicalApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ClassicalView()
         }
     }
 }
